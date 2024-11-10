@@ -1,2 +1,2 @@
 # Sistema_inventarios
-Un sistemas de inventarias con asp.net core con MVC
+Este es el Front End con React de un sistema de inventarios
